@@ -88,7 +88,8 @@ figure.foto-legenda figcaption {
     transition: opacity 1s;
 }
 
-figure.foto-legenda:hover figcaption {/*ação de aparecer ao passar o mouse*/
+/*ação de aparecer ao passar o mouse*/
+figure.foto-legenda:hover figcaption {
     opacity: 1;
 }
 
